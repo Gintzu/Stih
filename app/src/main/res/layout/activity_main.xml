@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#4CAF50"
-        android:text="А.С. Пушкин"
+        android:text="@string/Author"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
         android:background="#4CAF50"
-        android:text="ПРОРОК"
+        android:text="@string/StihName"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -36,11 +36,13 @@
         android:layout_height="wrap_content"
         android:background="#4FB6E6"
         android:backgroundTint="#2196F3"
-        android:text="ЧИТАТЬ"
+        android:text="@string/Read"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.8" />
+        app:layout_constraintVertical_bias="0.8"
+        tools:ignore="TextContrastCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
