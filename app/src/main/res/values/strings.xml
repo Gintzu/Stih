@@ -34,7 +34,7 @@
     <string name="StihName">ПРОРОК</string>
     <string name="Read">ЧИТАТЬ</string>
     <string name="Stih1">Stih</string>
-    <string name="button1">Button1</string>
-    <string name="button2">Button2</string>
-    <string name="button3">Button3</string>
+    <string name="button1">Сначала</string>
+    <string name="button2">Назад</string>
+    <string name="button3">Вперед</string>
 </resources>
