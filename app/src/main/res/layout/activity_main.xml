@@ -38,6 +38,7 @@
         android:backgroundTint="#2196F3"
         android:text="@string/Read"
         android:textColor="#FFFFFF"
+        android:onClick="toastMe"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

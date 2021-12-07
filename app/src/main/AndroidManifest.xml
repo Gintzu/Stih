@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Stih">
         <activity
-            android:name=".Page2"
+            android:name=".Page1"
             android:exported="false" />
         <activity
-            android:name=".Page1"
+            android:name=".Page2"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
