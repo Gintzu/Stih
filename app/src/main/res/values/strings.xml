@@ -33,4 +33,8 @@
     <string name="Author">А.С. Пушкин</string>
     <string name="StihName">ПРОРОК</string>
     <string name="Read">ЧИТАТЬ</string>
+    <string name="Stih1">Stih</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
 </resources>
